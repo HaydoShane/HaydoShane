@@ -1,4 +1,4 @@
-# 👋 Hello world! I'm @HaydoShane
+# Hello world, I'm Hayden 👋
 ## ⬇ Welcome to my Profile ⬇
 ## Interests
 - 👀 I’m interested in the ever evolving world of technology, programming (the cool stuff), and the use of Artifical Intelligence as a learning tool.
