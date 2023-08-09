@@ -1,8 +1,12 @@
-# 👋 Hello world! I’m @HaydoShane
+# 👋 Hello world! I'm @HaydoShane
+## ⬇ Welcome to my Profile ⬇
+## Interests
 - 👀 I’m interested in the ever evolving world of technology, programming (the cool stuff), and the use of Artifical Intelligence as a learning tool.
 - ⚽ On the days where I am not studying, I enjoy watching or playing Football. My favourite team is Real Madrid 🏆
+## Education & Goals
 - 🌱 I’m currently studying Business Information Systems and Technology and hope to take my knowledge and skills to build a career in the world of technology to help businesses gain a competitive advantage. 
-- 📫 How to reach me:
+## Contacts
+ 📫 How to reach me:
 -   hayden.shane@student.curtin.edu.au
 -   https://www.linkedin.com/in/haydenshane/
 
