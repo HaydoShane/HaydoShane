@@ -1,5 +1,5 @@
 # Hello world, I'm Hayden 👋
-## ⬇ Welcome to my Profile ⬇
+## ⬇ About Me ⬇
 ## Interests
 - 👀 I’m interested in the ever evolving world of technology, programming (the cool stuff), and the use of Artifical Intelligence as a learning tool.
 - ⚽ On the days where I am not studying, I enjoy watching or playing Football. My favourite team is Real Madrid 🏆
